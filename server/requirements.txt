@@ -145,7 +145,7 @@ sphinxcontrib-websupport==1.0.1.dev20171013
 SQLAlchemy==1.1.13
 SSSDConfig==1.16.0
 systemd-python==234
-tensorflow==1.4.1
+tensorflow==1.15.2
 tensorflow-tensorboard==0.4.0
 texttable==0.9.1
 torch==0.3.0.post4
